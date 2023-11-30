@@ -1,0 +1,1 @@
+"0x02. Python - import & modules: This section explores Python's import system and module functionality, covering the utilization of external files, importing functions, and managing modules efficiently within Python code."
