@@ -1,1 +1,1 @@
-0x0C-python-almost_a_circle
+The project name is alomst a circle.
