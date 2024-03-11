@@ -1,5 +1,5 @@
 Project Title: JavaScript Warm-up 
-
+    
 Project Overview:
 JavaScript is a versatile programming language used for both scripting and web front-end development. In this project, you will delve into JavaScript fundamentals through scripting tasks. By mastering the basics, you will pave the way for more advanced projects, such as integrating JavaScript and JQuery into dynamic web applications like AirBnB.
 
