@@ -1,4 +1,3 @@
-
 Project Title: JavaScript Warm-up
 
 Project Overview:
